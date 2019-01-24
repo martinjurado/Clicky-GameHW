@@ -1,0 +1,9 @@
+.title {
+    width: 100%;
+    text-align: center;
+    font-family: 'Staatliches', cursive;
+    font-size: 80px;
+    color: #FFB6C1;
+    margin-bottom: 50px;
+    text-shadow:  3px 4px #87CEFA;
+  }

@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Stewie",
+    "image": "https://upload.wikimedia.org/wikipedia/en/0/02/Stewie_Griffin.png"
+  },
+  {
+    "id": 2,
+    "name": "Peter",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/Peter_Griffin.png/220px-Peter_Griffin.png"
+  },
+  {
+    "id": 3,
+    "name": "Louis",
+    "image": "https://upload.wikimedia.org/wikipedia/en/a/a5/Lois_Griffin.png"
+  },
+  {
+    "id": 4,
+    "name": "Meg",
+    "image": "https://upload.wikimedia.org/wikipedia/en/c/c7/Meg_Griffin.png"
+  },
+  {
+    "id": 5,
+    "name": "Brian",
+    "image": "https://upload.wikimedia.org/wikipedia/en/1/12/Brian_Griffin.png"
+  },
+  {
+    "id": 6,
+    "name": "Quagmire",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fe/Glenn_Quagmire.png/220px-Glenn_Quagmire.png"
+  },
+  {
+    "id": 7,
+    "name": "Cris",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Chris_Griffin.png/220px-Chris_Griffin.png"
+  },
+  {
+    "id": 8,
+    "name": "Joe",
+    "image": "https://vignette.wikia.nocookie.net/familyguy/images/9/9c/190px-Joe_Swanson.png/revision/latest?cb=20100326012234"
+  },
+  {
+    "id": 9,
+    "name": "Cleveland",
+    "image": "https://upload.wikimedia.org/wikipedia/en/e/e4/Cleveland_Brown.png"
+  },
+  {
+    "id": 10,
+    "name": "Roger",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1c/Roger_Smith.png/200px-Roger_Smith.png"
+  },
+  {
+    "id": 11,
+    "name": "Stan",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/6/63/Stan_Smith.png/250px-Stan_Smith.png"
+  },
+  {
+    "id": 12,
+    "name": "Francine",
+    "image": "https://upload.wikimedia.org/wikipedia/en/d/da/Francine_Smith.png"
+  }
+]
