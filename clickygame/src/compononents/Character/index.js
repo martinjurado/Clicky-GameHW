@@ -2,7 +2,7 @@ import React from "react";
 import "./style.css";
 
 function Character (props) {
-  // deconstructure
+  
   const {image, name, id, clickDiv} = props
   return (
     <div 

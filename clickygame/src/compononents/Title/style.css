@@ -1,16 +1,14 @@
 .title {
-    font-family: 'Staatliches', cursive;
-    font-size: 50px;
-    color: skyblue;
-    text-shadow:  4px 1px salmon;
-  }
-
-  .titleWrap {
-    width: 100%;
-    text-align: center;
-  }
-
-  .logo {
-    height: 100px;
-    width: 200px;
-  }
+  font-family: 'Staatliches', cursive;
+  font-size: 50px;
+  color: skyblue;
+  text-shadow:  4px 1px salmon;
+}
+.titleWrap {
+  width: 100%;
+  text-align: center;
+}
+.logo {
+  height: 100px;
+  width: 200px;
+}

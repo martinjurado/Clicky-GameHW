@@ -1,5 +1,4 @@
 .card {
-  
   border-radius: 25px;
   height: 150px;
   margin-top: 2%;
@@ -8,7 +7,6 @@
   box-shadow: 0 3px 6px #999;
   text-align: left;
 }
-
 .card > .img-container {
   height: 100%;
   overflow: hidden;
@@ -18,7 +16,6 @@
 .card > .img-container > img {
   width: 60%
 }
-
 .card:hover {
   transform: scale(.7);
 }
