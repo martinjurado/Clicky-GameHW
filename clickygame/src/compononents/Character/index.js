@@ -3,11 +3,16 @@ import "./style.css";
 
 function Character (props) {
   // deconstructure
-  const {image, name} = props
+  const {image, name, id, clickDiv} = props
   return (
-    <div className="card">
+    <div 
+    className="card"
+    onClick={() => clickDiv(id)}
+    >
       <div className="img-container">
-        <img alt={name} src={image} />
+        <img alt={name} src={image} id={id}
+
+        />
       </div>
     </div>
   );
