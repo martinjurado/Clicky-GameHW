@@ -3,7 +3,7 @@ import "./style.css";
 
 function Header (props) {
     return(
-        <div class="titleWrap">
+        <div className="titleWrap">
         <h1 className="title">
         Current Score: {props.yourScore} {" "}
         Top Score: {props.highScore}

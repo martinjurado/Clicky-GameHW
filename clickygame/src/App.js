@@ -102,6 +102,7 @@ class App extends Component {
                         image={friend.image}
                         name={friend.name}
                         id={friend.id}
+                        key={friend.id}
                         clickDiv={this.clickDiv}
                         countScore={this.countScore}
                         initialShuffle={this.initialShuffle}
